@@ -1,0 +1,40 @@
+/* ==========================================================================
+   Author Info widget style - begin
+   ========================================================================== */
+.mkdf-author-info-widget {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  vertical-align: middle;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.mkdf-author-info-widget .mkdf-aiw-image {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 0;
+  overflow: hidden;
+}
+
+.mkdf-author-info-widget .mkdf-aiw-image img {
+  display: block;
+}
+
+.mkdf-author-info-widget .mkdf-aiw-title {
+  margin: 31px 0 13px;
+  color: #001659;
+}
+
+.mkdf-author-info-widget .mkdf-aiw-text {
+  display: block;
+  margin: 0;
+  font-size: 18px;
+}
+
+/* ==========================================================================
+   Author Info widget style - end
+   ========================================================================== */
+
+/*# sourceMappingURL=author-info-widget-map.css.map */

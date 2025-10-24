@@ -1,0 +1,166 @@
+/* ==========================================================================
+   Social Icons Group widget style - begin
+   ========================================================================== */
+.mkdf-social-icons-group-widget .mkdf-social-icons-group-widget-inner {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+@media only screen and (max-width: 1024px) {
+  .mkdf-social-icons-group-widget .mkdf-social-icons-group-widget-inner {
+    border-top: 1px solid #1d263f;
+  }
+}
+
+.mkdf-social-icons-group-widget.mkdf-square-icons {
+  overflow: hidden;
+}
+
+.mkdf-social-icons-group-widget.mkdf-square-icons .mkdf-social-icon-widget-holder {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  margin: 0;
+  font-size: 15px;
+  color: #fff;
+  background-color: #0a1229;
+  border: 1px solid #1d263f;
+  border-right-width: 0;
+  float: left;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+@media only screen and (max-width: 480px) {
+  .mkdf-social-icons-group-widget.mkdf-square-icons .mkdf-social-icon-widget-holder {
+    width: 55px;
+    height: 55px;
+  }
+}
+
+.mkdf-social-icons-group-widget.mkdf-square-icons .mkdf-social-icon-widget-holder:hover {
+  background-color: #ff5e14;
+}
+
+.mkdf-social-icons-group-widget.mkdf-square-icons .mkdf-social-icon-widget-holder:hover span {
+  color: #fff;
+}
+
+.mkdf-social-icons-group-widget.mkdf-square-icons .mkdf-social-icon-widget-holder:last-child {
+  border-right-width: 1px;
+}
+
+.mkdf-social-icons-group-widget.mkdf-square-icons .mkdf-social-icon-widget-holder .mkdf-social-icon-widget {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateY(-50%) translateX(-50%);
+  -ms-transform: translateY(-50%) translateX(-50%);
+  transform: translateY(-50%) translateX(-50%);
+}
+
+.mkdf-social-icons-group-widget.mkdf-square-icons.mkdf-light-skin .mkdf-social-icon-widget-holder {
+  color: #001659;
+  background-color: #fff;
+}
+
+.mkdf-social-icons-group-widget.mkdf-square-icons.mkdf-light-skin .mkdf-social-icon-widget-holder:hover {
+  color: #001659;
+  background-color: #ff5e14;
+}
+
+.mkdf-social-icons-group-widget .mkdf-social-icon-widget-holder {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 10px 0 0;
+  text-align: center;
+}
+
+.mkdf-social-icons-group-widget .mkdf-social-icon-widget-holder:first-child {
+  margin-left: 0;
+}
+
+.mkdf-social-icons-group-widget .mkdf-social-icon-widget-holder:last-child {
+  margin-right: 0 !important;
+}
+
+@media only screen and (max-width: 1366px) {
+  .mkdf-social-icons-group-widget .mkdf-social-icon-widget-holder:nth-last-child(2) {
+    margin-right: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .mkdf-social-icons-group-widget .mkdf-social-icon-widget-holder:nth-last-child(2) {
+    margin-right: 10px !important;
+  }
+}
+
+footer .mkdf-social-icons-group-widget.mkdf-square-icons .mkdf-social-icon-widget-holder {
+  border-top: none;
+}
+
+@media only screen and (max-width: 1440px) {
+  footer .mkdf-social-icons-group-widget.mkdf-square-icons .mkdf-social-icon-widget-holder {
+    width: 69px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  footer .mkdf-social-icons-group-widget.mkdf-square-icons .mkdf-social-icon-widget-holder {
+    position: relative;
+    width: 76px;
+    height: 76px;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  footer .mkdf-social-icons-group-widget.mkdf-square-icons .mkdf-social-icon-widget-holder {
+    width: 75px;
+    height: 69px;
+  }
+}
+
+@media only screen and (max-width: 1366px) {
+  footer .mkdf-social-icons-group-widget.mkdf-square-icons .mkdf-social-icon-widget-holder:nth-last-child(2) {
+    margin-right: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 1366px) {
+  .mkdf-top-bar .mkdf-social-icons-group-widget .mkdf-social-icon-widget-holder:nth-last-child(2) {
+    margin-right: 15px !important;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .mkdf-vertical-menu-area .mkdf-social-icons-group-widget .mkdf-social-icon-widget-holder:nth-last-child(2) {
+    margin-right: initial !important;
+  }
+}
+
+@media only screen and (max-width: 1366px) {
+  .mkdf-vertical-menu-area .mkdf-social-icons-group-widget .mkdf-social-icon-widget-holder:nth-last-child(2) {
+    margin-right: initial !important;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .mkdf-vertical-menu-area .mkdf-social-icons-group-widget .mkdf-social-icon-widget-holder:last-child {
+    margin-left: 30px !important;
+  }
+}
+
+@media only screen and (max-width: 1366px) {
+  .mkdf-vertical-menu-area .mkdf-social-icons-group-widget .mkdf-social-icon-widget-holder:last-child {
+    margin-left: 30px !important;
+  }
+}
+
+/* ==========================================================================
+   Social Icons Group widget style - end
+   ========================================================================== */
+
+/*# sourceMappingURL=social-icons-group-widget-map.css.map */
