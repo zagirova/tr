@@ -1,0 +1,3 @@
+<?php 
+$woo_background_color_selector = array('.woocommerce-page .mkdf-content .mkdf-quantity-buttons .mkdf-quantity-minus:hover','.woocommerce-page .mkdf-content .mkdf-quantity-buttons .mkdf-quantity-plus:hover','div.woocommerce .mkdf-quantity-buttons .mkdf-quantity-minus:hover','div.woocommerce .mkdf-quantity-buttons .mkdf-quantity-plus:hover');
+$woo_border_color_selector = array('.woocommerce-page .mkdf-content .mkdf-quantity-buttons .mkdf-quantity-minus:hover','.woocommerce-page .mkdf-content .mkdf-quantity-buttons .mkdf-quantity-plus:hover','div.woocommerce .mkdf-quantity-buttons .mkdf-quantity-minus:hover','div.woocommerce .mkdf-quantity-buttons .mkdf-quantity-plus:hover');

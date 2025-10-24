@@ -1,0 +1,228 @@
+3.4.5
+- Updated Revolution Slider to 6.7.37
+- Updated Wilmer Core plugin to 2.4.6
+- Improved title tag escaping
+
+3.4.4
+- Updated Revolution Slider to 6.7.35
+- Updated WPBakery Page Builder to 8.6.1
+- Updated Wilmer Core plugin to 2.4.5
+- Fixed background text not showing on Firefox when the animate background text option is enabled
+- Fixed masonry gallery appear effect not working properly in some cases
+- Fixed issues with textual logo functionality
+
+3.4.3
+- Updated Revolution Slider to 6.7.33
+- Updated WPBakery Page Builder to 8.4.1
+- Updated WPML config file
+- Minor fixes
+
+3.4.2
+- Updated WPBakery Page Builder to 8.2
+- Updated Wilmer Core plugin to 2.4.4
+- Improved WooCommerce compatibility
+- Improved theme's escaping
+- Improved PHP 8.4 compatibility
+- Minor fixes
+
+3.4.1
+- Updated Revolution Slider to 6.7.29
+- Updated WPBakery Page Builder to 8.1
+- Improved theme's security
+
+3.4
+- Updated Wilmer Core plugin to 2.4.3
+- Updated Revolution Slider to 6.7.18
+- Updated WPBakery Page Builder to 7.9
+- Improved PHP 8.2 compatibility
+- Improved Google Maps API compatibility
+
+3.3
+- Added QODE Quick View for WooCommerce plugin as required
+- Added QODE Quick View for WooCommerce compatibility
+- Updated Revolution Slider to 6.7.10
+- Updated WPBakery Page Builder to 7.6
+
+3.2.1
+- Improved QODE Wishlist for WooCommerce plugin compatibility
+
+3.2
+- Added QODE Wishlist for WooCommerce plugin as required
+- Updated Revolution Slider to 6.6.20
+- Updated WPBakery Page Builder to 7.5
+- Removed Wilmer Twitter Feed Plugin due to Twitter API changes
+
+3.1.1
+- Updated Revolution Slider to 6.6.14
+- Updated WPBakery Page Builder to 6.13.0
+- Improved WooCommerce 7.8 compatibility
+
+3.1.0
+- Added WooCommerce 7.5 compatibility
+- Updated Revolution Slider to 6.6.11
+- Fixed minor bug when WooCommerce plugin is not active
+
+3.0.1
+- Updated Wilmer Core plugin to 2.4.2
+- Updated Wilmer Instagram Feed to 2.0.4
+- Updated Wilmer Twitter Feed to 1.1.3
+- Fixed potential issue with loading of elementor files
+- Fixed Pricing Filter widget block
+- Fixed Search widget blocks
+
+3.0
+- Added option to disable Google Font in Mikado Options -> General
+- Added WooCommerce 7.3.0 compatibility
+- Updated Wilmer Core plugin to 2.4.1
+- Updated Wilmer Instagram Feed to 2.0.3
+- Updated Wilmer Twitter Feed to 1.1.2
+- Updated WPBakery Page Builder to 6.10.0
+- Updated Revolution Slider to 6.6.10
+- Fixed Elementor 'register_widget_type' deprecated notice
+- Fixed Elementor 'elementor/widgets/widgets_registered' deprecated notice
+
+2.9
+- Added Qi Blocks as required plugin
+- Added Gutenberg demo import option
+- Added third link option for 'Image with text' shortcode
+- Added 'Remove plus sign from button' option for 'Image with text' shortcode
+- Updated Wilmer Core plugin to 2.4
+- Updated Revolution Slider to 6.5.31
+- Fixed import when different page builders are in use and/or active
+- Fixed video button showing duplicated URLs
+
+2.8
+- Added WordPress 6.0 compatibility
+- Added WooCommerce 6.6.1 compatibility
+- Updated Revolution Slider plugin to 6.5.25
+- Updated WPBakery Page Builder to 6.9.0
+- Updated Wilmer Core plugin to 2.3
+- Updated Wilmer Child theme to 1.0.2
+- Fixed Child Theme CSS priority
+- Fixed _register_controls Deprecated notice
+- Fixed Elementor Accordion tab title color not applying
+- Fixed product review stars
+- Fixed Minimal header display issue when sticky header behaviour is enabled
+- Improved creation of the Custom Sidebars in new Widgets layout
+- Improved 'Bulk Select' functionality with Menus
+- Improved social share
+- Theme Validation Rest Endpoint
+
+2.7
+- Added WordPress 5.8.2 compatibility
+- Added WooCommerce 5.9 compatibility
+- Updated Revolution Slider plugin to 6.5.11
+- Updated Wilmer Core plugin to 2.2.2
+- Fixed Elementor Animated Slider pagination
+- Fixed Wide Drop Down menu position
+- Fixed potential security issue
+- Fixed Elementor Portfolio Load More
+- Fixed 'Bulk Select' functionality with Menus
+- Fixed portfolio list standard pagination not scrolling to the top of the list when page in navigation is changed
+- Improved wilmer_mikado_get_attachment_id_from_url function
+
+2.6.2
+- Updated Wilmer Core plugin to 2.2.1
+- Fixed Swipe Slider on touch devices
+- Fixed potential security issue
+
+2.6.1
+- Fixed Footer on 404 page
+- Removed old import option from the Theme Options
+
+2.6
+- Added WordPress 5.8 compatibility
+- Added WooCommerce 5.6.0 compatibility
+- Updated Revolution Slider plugin to 6.5.8
+- Updated WPBakery Page Builder to 6.7.0
+- Fixed creation of the Custom Sidebars in new Widgets layout
+- Improved Smooth page scroll script
+
+2.5
+- Added WordPress 5.7.2 compatibility
+- Added WooCommerce 5.4.1 compatibility
+- Updated Wilmer Core plugin to 2.2
+- Updated Wilmer Instagram Feed to 2.0.2
+- Updated Wilmer Twitter Feed to 1.1.1
+- Updated Revolution Slider plugin to 6.5.0
+- Updated Child theme to 1.0.1
+- Fixed Revolution Slider preview functionality
+- Improved Countdown shortcode calculation
+- Improved PHP 8 compatibility
+- Improved import functionality PHP 8
+- Improved theme registration - code already used case
+- Improved theme registration to block Shortcodes and CPT loading if the theme is not registered
+- Removed Google plus share option
+
+2.4.2
+- Updated Revolution Slider plugin to 6.4.11
+- Updated Wilmer Core plugin to 2.1.2
+
+2.4.1
+- Added compatibility with Qi Addons for Elementor plugin
+- Added WordPress 5.7.1 compatibility
+- Added WooCommerce 5.2.2 compatibility
+- Updated WPBakery Page Builder to 6.6.0
+- Updated Revolution Slider plugin to 6.4.8
+
+2.4
+- Added images licensed for digital use on websites made with Wilmer theme
+- Updated WPBakery page builder to 6.5.0
+- Updated Revolution Slider to 6.3.5
+
+2.3
+- Updated Wilmer Instagram Feed to 2.0.1
+- Updated WPBakery page builder to 6.4.1
+- Fixed Instagram feed for business accounts
+
+2.2
+- Updated Wilmer Instagram Feed to 2.0
+- Updated WPBakery page builder to 6.4.0
+- Updated Revolution Slider plugin to 6.2.23
+
+2.1
+- Added WordPress 5.5 compatibility
+- Updated Wilmer Core plugin to 2.1.1
+- Updated Wilmer Instagram Feed to 1.1.1
+- Updated WPBakery page builder to 6.3.0
+- Updated Revolution Slider plugin to 6.2.22
+- Updated language files
+
+2.0.1
+- Updated Wilmer Core plugin to 2.1
+- Updated Revolution Slider to 6.2.12
+- Improved demo content import functionality
+- Improved WooCommerce quantity input field
+
+2.0
+- Added Elementor compatibility
+- Added Type option for Image with text shortcode
+- Added WooCommerce 4.0.1 compatibility
+- Updated Wilmer Core to 2.0
+- Updated Wilmer Instagram Feed to 1.1
+- Updated Wilmer Twitter Feed to 1.1
+- Updated Revolution Slider to 6.2.2
+- Updated WPBakery page builder to 6.2
+
+1.2.1
+- Updated Wilmer Core to 1.3
+- Improved loading scripts
+
+1.2
+- Updated Wilmer Core to 1.2
+- Fixed script calling in import.php
+
+1.1
+- Added WooCommerce 3.8.0 compatibility
+- Added Wilmer Dashboard
+- Updated Wilmer Core to 1.1
+- Updated WPBakery page builder to 6.0.5
+- Updated Revolution Slider to 6.1.5
+� Removed unused file instagram-redirect.php from Wilmer Instagram Feed plugin
+� Removed unused file twitter-redirect.php from Wilmer Twitter Feed plugin
+� Updated Wilmer Instagram Feed plugin to 1.0.1
+� Updated Wilmer Twitter Feed plugin to 1.0.1
+- Fixed 'Animated Switch Slider' not working when WooCommerce plugin is not installed
+- Improved Import
+- Improved Welcome Page
+- Changed Wilmer Options Position
